@@ -18,7 +18,7 @@ int main(void)
 	}
 	while (g < 91)
 	{
-		putchar(n);
+		putchar(g);
 		g++;
 	}
 	putchar('\n');
